@@ -1,0 +1,26 @@
+body {
+    background-color: #f4f7fb;
+}
+
+.navbar {
+    background-color: #0d6efd;
+}
+
+.hero {
+    background: linear-gradient(135deg, #0d6efd, #20c997);
+    color: #fff;
+    padding: 40px 0;
+    margin-bottom: 30px;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .08);
+}
+
+footer {
+    margin-top: 40px;
+    padding: 15px 0;
+    text-align: center;
+    color: #6c757d;
+}
